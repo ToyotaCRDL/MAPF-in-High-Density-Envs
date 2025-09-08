@@ -1,0 +1,10 @@
+name: phans
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.3.*
+  - matplotlib=3.9.*
+  - pillow=10.*          # needed if you save GIFs
+  - ffmpeg>=6,<8         # needed if you save MP4s
+  - pip
