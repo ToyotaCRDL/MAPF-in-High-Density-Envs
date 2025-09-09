@@ -76,5 +76,18 @@ python run_env4.py
 ```
 
 
+## Citation
+If this code is useful for your work, please cite our paper:
+
+```
+@article{makino2025,
+  title={MAPF-HD: Multi-Agent Path Finding in High-Density Environments},
+  author={Makino, H. and Ito, S.},
+  journal={arXiv preprint arXiv:2509.06374},
+  year={2025}
+}
+```
+
+
 ## License
 This repository is licensed under `LICENSE.md`.
